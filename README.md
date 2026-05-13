@@ -1,4 +1,4 @@
-Nina Wilson's Work Samples
+Work Samples By Nina Wilson
 
 A repository of sample work products divided into 3 major categories; including Power BI Dashboards, Financial Models, and Technical Documentation/Workflow Process Diagrams. 
 
