@@ -19,7 +19,7 @@ Business Case Story: Federal finance teams often struggle to reconcile Unliquida
 
 By integrating obligation amounts, liquidations, days open, and object class data into a unified model, the dashboard provides a reliable reconciliation tool that supports audit readiness, improves financial controls, and accelerates month‑end and year‑end close. It transforms fragmented system data into actionable insight—helping teams pinpoint discrepancies, prioritize follow‑up, and strengthen overall ULO management.
 
---Power BI/ERP VS Procurement System ULO Recon Power BI-- 
+--Power BI/Games Unlimited 2 Power BI-- 
 
 Business Case Story: Supported leadership of a retail gaming company in their interpretation of profit, revenue, and order volume metrics trending across time and store locations. By integrating sales, product, store, and calendar data into a unified model, the dashboard highlights monthly performance patterns, compares revenue contributions by location type, and surfaces the operational drivers behind total profit. It gives decision‑makers a clear, visual way to track growth, identify underperforming segments, and guide strategic actions that improve overall financial performance.
 
