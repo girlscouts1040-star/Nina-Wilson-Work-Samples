@@ -1,4 +1,4 @@
-A repository of work samples by Nina Wilson divided into 3 major categories; including Financial Models, Power BI Dashboards and Technical Documentation/Workflow Process Diagrams. 
+A repository of work samples by Nina Wilson divided into 3 major categories; Financial Models, Power BI Dashboards and Technical Documentation/Workflow Process Diagrams. 
 
 **--Financial Models/Candy Confection Folder--** 
 Business Case Story: Candy Confection Cash Flow Model
