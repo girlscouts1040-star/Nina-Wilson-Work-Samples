@@ -9,9 +9,11 @@ Pinnacle Supplier DBA Candy Confection needed a forward‑looking, audit‑ready
 
 This model was built to solve that problem.
 
-Using detailed assumptions—including A/R and A/P timing, bonus accruals, utilities minimums, capex schedules, and multi‑scenario pricing changes—the workbook generates a month‑by‑month cash position that ties directly to the P&L and operational drivers. Sales forecasts flow from customer‑level projections, while payroll, COGS, and operating expenses are mapped to precise payment dates to reflect true cash impact.
-
 The result is a fully integrated cash flow engine that helps Candy Confection anticipate funding gaps, evaluate hiring plans, test pessimistic/base/optimistic scenarios, and make confident decisions about production capacity and capital investments. It transforms scattered operational data into a single, reliable source of financial truth—supporting smarter planning as the company scales.
+
+
+--Power BI/Cold as Ice Bakery Folder-- 
+Cold as Ice Bakery needed a clear, unified view of how its products, customers, and regions were performing against budget. This Power BI dashboard brings financial and operational data together to show where revenue is coming from, how customer value is trending, and whether the business is meeting its revenue‑per‑customer targets. By visualizing Actual vs. Budget performance and highlighting key drivers like customer counts and product mix, the dashboard gives leadership a fast, reliable way to spot trends, diagnose gaps, and make smarter decisions.
 
 Credits
 This repo was compiled by Nina Wilson.
