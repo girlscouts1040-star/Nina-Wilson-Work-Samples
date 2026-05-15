@@ -2,9 +2,7 @@ Work Samples By Nina Wilson
 
 A repository of sample work products divided into 3 major categories; including Financial Models, Power BI Dashboards and Technical Documentation/Workflow Process Diagrams. 
 
-To get started, simply fork this repo.
-
-Financial Models Folder 
+--Financial Models Folder-- 
 
 Business Case Story: Candy Confection Cash Flow Model
 Pinnacle Supplier DBA Candy Confection needed a forward‑looking, audit‑ready cash flow model to manage rapid growth across its corporate, retail, and eCommerce channels. With more than 70 active customers, complex production cycles, and a growing full‑time workforce, leadership lacked a unified way to understand how sales timing, payroll, raw‑material purchases, and capital investments translated into real liquidity needs.
