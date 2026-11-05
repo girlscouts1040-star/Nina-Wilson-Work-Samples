@@ -1,8 +1,8 @@
 A repository of work samples by Nina Wilson divided into 3 major categories; Financial Models, Power BI Dashboards and Technical Documentation/Workflow Process Diagrams. 
 
-**--Financial Models/Candy Confection Folder--** 
-Business Case Story: Candy Confection Cash Flow Model
-Pinnacle Supplier DBA Candy Confection needed a forward‑looking, audit‑ready cash flow model to manage rapid growth across its corporate, retail, and eCommerce channels. With more than 70 active customers, complex production cycles, and a growing full‑time workforce, leadership lacked a unified way to understand how sales timing, payroll, raw‑material purchases, and capital investments translated into real liquidity needs.
+**--Financial Models/Archtech LLC Folder--** 
+Business Case Story: Archtech Cash Flow Model
+Archtech needed a forward‑looking, audit‑ready cash flow model to manage rapid growth across its corporate, retail, and eCommerce channels. With more than 70 active customers, complex production cycles, and a growing full‑time workforce, leadership lacked a unified way to understand how sales timing, payroll, raw‑material purchases, and capital investments translated into real liquidity needs.
 
 This model was built to solve that problem.
 
