@@ -2,6 +2,7 @@ A repository of work samples by Nina Wilson divided into 3 major categories; Fin
 
 **--Financial Models/Archtech LLC Folder--** 
 Business Case Story: Archtech Cash Flow Model
+
 Archtech needed a forward‑looking, audit‑ready cash flow model to manage rapid growth across its corporate, retail, and eCommerce channels. With more than 70 active customers, complex production cycles, and a growing full‑time workforce, leadership lacked a unified way to understand how sales timing, payroll, raw‑material purchases, and capital investments translated into real liquidity needs.
 
 This model was built to solve that problem.
@@ -10,6 +11,7 @@ The result is a fully integrated cash flow engine that helps Archtech anticipate
 
 **--Financial Models/Taylor Supplements Folder--** 
 Business Case Story: Taylor Supplements Portfolio Pricing & Cost Sensitivity Analysis
+
 Taylor needed analyze products to evaluate pricing impacts from 5%, 10%, 15% cost increases. 
 
 This analysis demonstrates scenario modeling, formula-driving pricing, and portfolio-level cost sensitivity assessment. 
