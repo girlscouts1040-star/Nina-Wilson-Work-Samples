@@ -8,6 +8,12 @@ This model was built to solve that problem.
 
 The result is a fully integrated cash flow engine that helps Archtech anticipate funding gaps, evaluate hiring plans, test pessimistic/base/optimistic scenarios, and make confident decisions about production capacity and capital investments. It transforms scattered operational data into a single, reliable source of financial truth—supporting smarter planning as the company scales.
 
+**--Financial Models/Taylor Supplements Folder--** 
+Business Case Story: Taylor Supplements Portfolio Pricing & Cost Sensitivity Analysis
+Taylor needed analyze products to evaluate pricing impacts from 5%, 10%, 15% cost increases. 
+
+This analysis demonstrates scenario modeling, formula-driving pricing, and portfolio-level cost sensitivity assessment. 
+
 **--Power BI/Cold as Ice Bakery Folder--** 
 Business Case Story: Cold as Ice Bakery needed a clear, unified view of how its products, customers, and regions were performing against budget. This Power BI dashboard brings financial and operational data together to show where revenue is coming from, how customer value is trending, and whether the business is meeting its revenue‑per‑customer targets. By visualizing Actual vs. Budget performance and highlighting key drivers like customer counts and product mix, the dashboard gives leadership a fast, reliable way to spot trends, diagnose gaps, and make smarter decisions.
 
