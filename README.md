@@ -9,12 +9,10 @@ This model was built to solve that problem.
 
 The result is a fully integrated cash flow engine that helps Archtech anticipate funding gaps, evaluate hiring plans, test pessimistic/base/optimistic scenarios, and make confident decisions about production capacity and capital investments. It transforms scattered operational data into a single, reliable source of financial truth—supporting smarter planning as the company scales.
 
-**--Financial Models/Taylor Supplements Folder--** 
-Business Case Story: Taylor Supplements Portfolio Pricing & Cost Sensitivity Analysis
+**--Financial Models/Auditable Automation LLC Folder--** 
+Business Case Story: Auditable Automation LLC Pricing & Margin Calculator 
 
-Taylor needed analyze products to evaluate pricing impacts from 5%, 10%, 15% cost increases. 
-
-This analysis demonstrates scenario modeling, formula-driving pricing, and portfolio-level cost sensitivity assessment. 
+An Excel-based decision-support tool that helps service businesses translate project complexity and expected value into tiered pricing recommendations. It combines weighted value scoring, configurable price bands, technology and resource costs, overhead, and optional expenses to calculate revenue, profit, and margins. The workbook includes guided inputs, automated calculations, margin classifications, and executive profitability charts—enabling faster, consistent, and data-informed pricing decisions.
 
 **--Power BI/Cold as Ice Bakery Folder--** 
 Business Case Story: Cold as Ice Bakery needed a clear, unified view of how its products, customers, and regions were performing against budget. 
