@@ -1,5 +1,14 @@
-A repository of work samples by Nina Wilson divided into 3 major categories; Financial Models, Power BI Dashboards and Technical Documentation/Workflow Process Diagrams. 
+A repository of work samples by Nina Wilson divided into 4 major FINTECH categories; Deployment Agent, Financial Models, Power BI Dashboards and Technical Documentation/Workflow Process Diagrams. 
 
+**--Deployment Agent/Buzz Agent--** 
+Business Case Story: Irwin Union Credit Union 
+
+Irwin Union CU has an interest in researching treasury index rates in support of their bond yields. A lead agent has been deployed in Buzz on the Hostinger VPS equipped with Codex. This agent performs the follows related yet segmented business task: 
+
+1) Researcher Agent
+2) Writer Agent
+3) Reviewer Agent
+   
 **--Financial Models/Archtech LLC Folder--** 
 Business Case Story: Archtech Cash Flow Model
 
