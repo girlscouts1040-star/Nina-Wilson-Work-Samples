@@ -322,11 +322,3 @@ Her work focuses on delivering audit-ready financial models, executive reporting
 **Connect**
 
 Thank you for visiting this portfolio. These work samples represent my commitment to solving complex business challenges through structured analysis, thoughtful design, and practical business solutions that create measurable value. 
-
-Business Case Story: Irwin Union Credit Union 
-
-Irwin Union CU has an interest in researching treasury index rates in support of their bond yields. A lead agent has been deployed in Buzz on the Hostinger VPS equipped with Codex. This agent performs the follows related yet segmented business task: 
-
-1) Researcher Agent
-2) Writer Agent
-3) Reviewer Agent
